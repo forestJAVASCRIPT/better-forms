@@ -1,0 +1,29 @@
+{
+  "name": "better-action-form",
+  "version": "1.0.0",
+  "description": "A way to handle the ActionFormData class from @minecraft/server-ui more easily.",
+  "keywords": [
+    "minecraft",
+    "bedrock",
+    "mcbe",
+    "server-ui",
+    "forms",
+    "ActionFormData",
+    "ui"
+  ],
+  "homepage": "https://github.com/forestJAVASCRIPT/better-forms#readme",
+  "bugs": {
+    "url": "https://github.com/forestJAVASCRIPT/better-forms/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/forestJAVASCRIPT/better-forms.git"
+  },
+  "license": "ISC",
+  "author": "forestJS",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
